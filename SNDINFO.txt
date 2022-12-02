@@ -1,0 +1,38 @@
+
+/*
+//	Weapon Sounds
+*/
+
+Weapons/Pistols/PistolDryFire "Sounds/Weapons/Pistols/PistolDryFire.ogg"
+Weapons/Pistols/PistolMagOut "Sounds/Weapons/Pistols/PistolMagOut.ogg"
+Weapons/Pistols/PistolMagIn "Sounds/Weapons/Pistols/PistolMagIn.ogg"
+Weapons/Pistols/PistolSlideForward "Sounds/Weapons/Pistols/PistolSlideForward.ogg"
+
+Weapons/Shotguns/DryFire "Sounds/Weapons/Shotguns/DryFire.ogg"
+Weapons/Shotguns/Fire "Sounds/Weapons/Shotguns/Fire.ogg"
+Weapons/Shotguns/PumpBackward "Sounds/Weapons/Shotguns/PumpBackward.ogg"
+Weapons/Shotguns/PumpForward "Sounds/Weapons/Shotguns/PumpForward.ogg"
+Weapons/Shotguns/ShellLoad1 "Sounds/Weapons/Shotguns/ShellLoad1.ogg"
+Weapons/Shotguns/ShellLoad2 "Sounds/Weapons/Shotguns/ShellLoad2.ogg"
+Weapons/Shotguns/ShellLoad3 "Sounds/Weapons/Shotguns/ShellLoad3.ogg"
+Weapons/Shotguns/ShellLoad4 "Sounds/Weapons/Shotguns/ShellLoad4.ogg"
+Weapons/Shotguns/ShellLoad5 "Sounds/Weapons/Shotguns/ShellLoad5.ogg"
+Weapons/Shotguns/ShellLoad6 "Sounds/Weapons/Shotguns/ShellLoad6.ogg"
+
+$random Weapons/Shotguns/ShellLoad
+{
+	Weapons/Shotguns/ShellLoad1
+	Weapons/Shotguns/ShellLoad2
+	Weapons/Shotguns/ShellLoad3
+	Weapons/Shotguns/ShellLoad4
+	Weapons/Shotguns/ShellLoad5
+	Weapons/Shotguns/ShellLoad6
+}
+
+/*
+//	Player Sounds
+*/
+
+//$playersound	player  male	*death 	  "Sounds/Players/death2.ogg" 
+//$playersound player male *dive       dswtrhit
+//$playersound player male *surface    dssurfce
