@@ -3,10 +3,23 @@
 //	Weapon Sounds
 */
 
-Weapons/Pistols/PistolDryFire "Sounds/Weapons/Pistols/PistolDryFire.ogg"
-Weapons/Pistols/PistolMagOut "Sounds/Weapons/Pistols/PistolMagOut.ogg"
-Weapons/Pistols/PistolMagIn "Sounds/Weapons/Pistols/PistolMagIn.ogg"
-Weapons/Pistols/PistolSlideForward "Sounds/Weapons/Pistols/PistolSlideForward.ogg"
+Weapons/Pistols/DryFire "Sounds/Weapons/Pistols/DryFire.ogg"
+Weapons/Pistols/MagOut "Sounds/Weapons/Pistols/MagOut.ogg"
+Weapons/Pistols/MagIn "Sounds/Weapons/Pistols/MagIn.ogg"
+Weapons/Pistols/SlideBackward "Sounds/Weapons/Pistols/SlideBackward.ogg"
+Weapons/Pistols/SlideForward "Sounds/Weapons/Pistols/SlideForward.ogg"
+
+Weapons/Pistols/357/Open "Sounds/Weapons/Pistols/357/Open.ogg"
+Weapons/Pistols/357/Close "Sounds/Weapons/Pistols/357/Close.ogg"
+Weapons/Pistols/357/Spin "Sounds/Weapons/Pistols/357/Spin.ogg"
+Weapons/Pistols/357/Empty "Sounds/Weapons/Pistols/357/Empty.ogg"
+Weapons/Pistols/357/Load1 "Sounds/Weapons/Pistols/357/Load1.ogg"
+Weapons/Pistols/357/Load2 "Sounds/Weapons/Pistols/357/Load2.ogg"
+Weapons/Pistols/357/LoadMoonClip "Sounds/Weapons/Pistols/357/LoadMoonClip.ogg"
+
+Weapons/Pistols/Judge/Empty "Sounds/Weapons/Pistols/Judge/Empty.ogg"
+Weapons/Pistols/Judge/Load1 "Sounds/Weapons/Pistols/Judge/Load1.ogg"
+Weapons/Pistols/Judge/Load2 "Sounds/Weapons/Pistols/Judge/Load2.ogg"
 
 Weapons/Shotguns/DryFire "Sounds/Weapons/Shotguns/DryFire.ogg"
 Weapons/Shotguns/Fire "Sounds/Weapons/Shotguns/Fire.ogg"
