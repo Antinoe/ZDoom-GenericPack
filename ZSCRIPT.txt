@@ -1,7 +1,0 @@
-version "4.4.2"
-
-#include "ZScript/Weapons/WeaponBase.zs"
-#include "ZScript/Weapons/Pistol1.zs"
-#include "ZScript/Weapons/Shotgun1.zs"
-#include "ZScript/Weapons/SMG1.zs"
-#include "ZScript/Effects/Smoke.zs"
